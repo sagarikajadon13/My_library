@@ -2,6 +2,9 @@ A collection of resources such as lecture slides, blog posts, YT videos., etc, t
 
 # Pytorch Internals, Tips and Tricks
 
+# Neural Networks
+1. What is bias in a NN?- <https://www.turing.com/kb/necessity-of-bias-in-neural-networks>
+
 # Object Detection
 1. Lil'Log blog posts- <https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/>
 2. CV3DST, TUM lecture slides- <https://dvl.in.tum.de/slides/cv3dst-ss20/>
