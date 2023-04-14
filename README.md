@@ -1,4 +1,4 @@
-A collection of resources such as lecture slides, blog posts, YT videos., etc, that I found usefull for understanding a concept. Does not include research papers.
+A collection of resources such as lecture slides, blog posts, YT videos., etc, that I found useful for understanding a concept. Does not include research papers.
 
 # Pytorch Internals, Tips and Tricks
 
